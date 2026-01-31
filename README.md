@@ -71,11 +71,6 @@ src/
 └── main.jsx      # Entry point
 ```
 
-## Contact
-
-- **Email:** [samholtz1205@gmail.com](mailto:samholtz1205@gmail.com)
-- **GitHub:** [https://github.com/sam-holtz](https://github.com/sam-holtz)
-
 ## License
 
 Free to use for personal and commercial projects.
